@@ -27,7 +27,7 @@ Triagers are given the "Triage" GitHub role and have:
 
 See:
 
-* [List of triagers](./README.md#triagers)
+* [List of triagers](./Hominhphat23#triagers)
 * [A guide for triagers](./doc/contributing/issues.md#triaging-a-bug-report)
 
 ## Collaborators
@@ -56,7 +56,7 @@ result in collaborators removing their opposition.
 
 See:
 
-* [List of collaborators](./README.md#current-project-team-members)
+* [List of collaborators](./Hominhphat23#current-project-team-members)
 * [A guide for collaborators](./doc/contributing/collaborator-guide.md)
 
 ### Collaborator activities
@@ -87,7 +87,7 @@ The TSC has final authority over this project, including:
 * Maintaining the list of collaborators
 
 The current list of TSC members is in
-[the project README](./README.md#current-project-team-members).
+[the project README](./Hominhphat23#current-project-team-members).
 
 The [TSC Charter][] governs the operations of the TSC. All changes to the
 Charter need approval by the OpenJS Foundation Cross-Project Council (CPC).
@@ -116,7 +116,7 @@ meeting, the TSC chair ensures that someone opens a pull request with the
 minutes.
 
 The TSC seeks to resolve as many issues as possible outside meetings using
-[the TSC issue tracker](https://github.com/nodejs/TSC/issues). The process in
+[the TSC issue tracker](). The process in
 the issue tracker is:
 
 * A TSC member opens an issue explaining the proposal/issue and @-mentions
@@ -186,7 +186,7 @@ nomination.
 ### Onboarding
 
 After the nomination passes, a TSC member onboards the new collaborator. See
-[the onboarding guide](./onboarding.md) for details of the onboarding
+[the onboarding guide](. Hominhphat2) for details of the onboarding
 process.
 
 ## Consensus seeking process
@@ -194,7 +194,7 @@ process.
 The TSC follows a [Consensus Seeking][] decision-making model per the
 [TSC Charter][].
 
-[Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+[Consensus Seeking]
 [TSC Charter]: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md
 [collaborators discussion page]: https://github.com/nodejs/collaborators/discussions/categories/collaborator-nominations
 [nodejs/help]: https://github.com/nodejs/help
